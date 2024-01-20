@@ -3,6 +3,7 @@ name = "char-cli"
 version = "0.1.0"
 edition = "2021"
 authors = ["darkiiiiiice <darkiiiiiice@gmail.com>"]
+description ="an unicode escape tool"
 categories = ["command-line-utilities"]
 keywords = [
     "ascii",
@@ -13,6 +14,8 @@ keywords = [
 readme = "README.md"
 homepage = "https://github.com/Darkiiiiiice/char-cli"
 repository = "https://github.com/Darkiiiiiice/char-cli.git"
+license = "MIT License"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
