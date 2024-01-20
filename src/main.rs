@@ -3,7 +3,6 @@ mod ascii;
 use std::io;
 use std::io::Read;
 use std::mem::size_of_val;
-use std::slice::SliceIndex;
 use clap::Parser;
 use crate::ascii::ASCII;
 
